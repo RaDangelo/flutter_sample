@@ -1,6 +1,6 @@
 # flutter_sample
 
-A new Flutter project.
+First Flutter Project - Quizz App
 
 ## Getting Started
 
